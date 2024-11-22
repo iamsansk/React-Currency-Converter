@@ -18,7 +18,7 @@ This is a Currency Converter app built with React and Vite. It allows users to c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/React-Currency-Converter.git
+git clone https://github.com/iamsansk/React-Currency-Converter.git
 cd React-Currency-Converter
 ```
 
